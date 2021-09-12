@@ -1,2 +1,2 @@
 # repository
-![ссылка](https://github.com/Tiptev/repository/raw/master/image.png)
+![ссылка](https://github.com/Tiptev/repository/raw/master/image/image.png)
